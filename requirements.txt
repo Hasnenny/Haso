@@ -25,3 +25,4 @@ wget
 youtube-search
 youtube-search-python
 python-dotenv
+pytgcalls
